@@ -1,0 +1,26 @@
+Admin
+Username: admin
+Email: admin@littlelemon.com
+Password: lemon@789!
+
+Manager Group
+Username: Abu
+Token: 79694beb35ef5f4f5207ec79e18cad163894669e
+
+Delivery Crew
+Username: Sadiq
+Token: 2182ce3d0f03db5907bb40bb09be56441bc26be4
+
+Delivery Crew 
+Username: Emma
+Token:eec1a47bfe9fcfc84e9a6f4a69e45aa84dff0ff5
+
+
+Customer
+Username: Aisha
+Token: 680ec494cd348daa4e75f13e2c48e820a31dbe24
+
+Customer
+Username = John
+Token = 4ebfb9a3c0180b6123cb1c898f6d65e5ad5f51c1
+
